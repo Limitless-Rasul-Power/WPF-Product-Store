@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\bin\Debug\WpfApp Product.exe.config
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\bin\Debug\WpfApp Product.exe
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\bin\Debug\WpfApp Product.pdb
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product.g.resources
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp_Product.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product.exe
+C:\Users\Admin\source\repos\WpfApp Product\WpfApp Product\obj\Debug\WpfApp Product.pdb
